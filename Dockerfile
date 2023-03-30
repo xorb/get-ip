@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM mhart/alpine-node:slim-16
 
 EXPOSE 8080
 
